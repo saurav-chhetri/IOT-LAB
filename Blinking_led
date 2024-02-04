@@ -1,0 +1,8 @@
+void setup()
+{
+// initialize digital pin 9 as an output. pinMode(13, OUTPUT);
+}
+void loop()
+4
+{ digitalWrite(13, HIGH); delay(1000);
+digitalWrite(13, LOW); }
